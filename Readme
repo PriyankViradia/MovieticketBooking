@@ -1,0 +1,3 @@
+•	Developed a system that manages to book a movie ticket from a particular theater with movie, screen and seat selected by user. Also, he/she can search for movie according to genre or Time show availability for seats. Lastly see his/her total billing of purchases.
+•	Employee of the theater can select which movie can be shown in which screens. The movies name are stored in MoviePool and user’s tickets and counting.
+•	Tools and Technology: pandas, python, psycopg2, streamlit, SQL, PostgreSQL.
